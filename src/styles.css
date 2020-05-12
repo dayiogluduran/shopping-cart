@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+.cart-item{
+  font-size: small;
+}
+
+.filters{
+  font-size: small;
+}
+
+.card, .form-control, .btn, .list-group-item{
+  border-radius: unset;
+}
+
+.list-group-item:last-child, .list-group-item:first-child{
+  border-radius: unset;
+}
+
+.product-btn{
+  font-size: smaller;
+}
